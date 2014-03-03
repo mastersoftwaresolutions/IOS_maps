@@ -1,0 +1,3 @@
+platform :ios, '7.0'
+pod 'GoogleMapsDirection', '~> 0.1.1'
+pod 'GoogleMapsKit', '~> 1.0.4'
